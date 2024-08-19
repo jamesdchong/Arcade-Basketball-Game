@@ -1,4 +1,4 @@
-# Mini-Hoop Automated Scoreboard
+# Arcade Basketball Game
 
 ## Demo
 
